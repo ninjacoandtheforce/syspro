@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Source\\Github\\SysPro.PilotAssessment\\SysPro.PilotAssessment\\Syspro.PilotAssessment.Domain\\Syspro.PilotAssessment.Domain.csproj": {}
+    "E:\\Source\\Github\\Syspro\\Syspro.PilotAssessment\\SysPro.PilotAssessment\\Syspro.PilotAssessment.Domain\\Syspro.PilotAssessment.Domain.csproj": {}
   },
   "projects": {
-    "E:\\Source\\Github\\SysPro.PilotAssessment\\SysPro.PilotAssessment\\Syspro.PilotAssessment.Domain\\Syspro.PilotAssessment.Domain.csproj": {
+    "E:\\Source\\Github\\Syspro\\Syspro.PilotAssessment\\SysPro.PilotAssessment\\Syspro.PilotAssessment.Domain\\Syspro.PilotAssessment.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Source\\Github\\SysPro.PilotAssessment\\SysPro.PilotAssessment\\Syspro.PilotAssessment.Domain\\Syspro.PilotAssessment.Domain.csproj",
+        "projectUniqueName": "E:\\Source\\Github\\Syspro\\Syspro.PilotAssessment\\SysPro.PilotAssessment\\Syspro.PilotAssessment.Domain\\Syspro.PilotAssessment.Domain.csproj",
         "projectName": "Syspro.PilotAssessment.Domain",
-        "projectPath": "E:\\Source\\Github\\SysPro.PilotAssessment\\SysPro.PilotAssessment\\Syspro.PilotAssessment.Domain\\Syspro.PilotAssessment.Domain.csproj",
+        "projectPath": "E:\\Source\\Github\\Syspro\\Syspro.PilotAssessment\\SysPro.PilotAssessment\\Syspro.PilotAssessment.Domain\\Syspro.PilotAssessment.Domain.csproj",
         "packagesPath": "C:\\Users\\betta\\.nuget\\packages\\",
-        "outputPath": "E:\\Source\\Github\\SysPro.PilotAssessment\\SysPro.PilotAssessment\\Syspro.PilotAssessment.Domain\\obj\\",
+        "outputPath": "E:\\Source\\Github\\Syspro\\Syspro.PilotAssessment\\SysPro.PilotAssessment\\Syspro.PilotAssessment.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

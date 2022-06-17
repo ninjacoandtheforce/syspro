@@ -9,7 +9,11 @@ namespace Syspro.PilotAssessment.Domain.Enums;
 public enum DirectionEnum
 {
     E = 90,
+    SE = 135,
     S = 180,
+    SW = 225,
     W = 270,
-    N = 360
+    NW = 315,
+    N = 360,
+    NE = 45,
 }
